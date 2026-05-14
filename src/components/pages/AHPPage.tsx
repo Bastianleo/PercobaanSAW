@@ -1,4 +1,4 @@
-import React from "react";
+
 import { useSPK } from "../../context/SPKContext";
 import { AHP_SCALE, AHP_LABELS } from "../../utils/ahp";
 import { Card } from "../ui/Card";
