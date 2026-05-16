@@ -84,14 +84,7 @@ export function Sidebar({ page, setPage, open, setOpen }: SidebarProps) {
           ))}
         </nav>
         <div className="p-4 border-t border-slate-100">
-          <div className="rounded-xl bg-blue-50 p-3">
-            <p className="text-xs font-semibold text-blue-800 mb-0.5">
-              SAW & AHP
-            </p>
-            <p className="text-[10px] text-blue-600 leading-relaxed">
-              Multi-Criteria Decision Making System
-            </p>
-          </div>
+          
         </div>
       </aside>
     </>
